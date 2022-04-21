@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+    .box{
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        height: 2050px;
+    }
+    .video{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        opacity: 50%;
+    }
+    .title{
+        position: absolute;
+        width: 100%;
+        height: 10%;
+        top: 10%;
+        font-size: 400%;
+        text-align: center;
+        color: white;
+    }
