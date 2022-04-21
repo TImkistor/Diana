@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    }
+    .box{
+        background-color: black;
+        width: 100%;
+        height: 2000px;
+    }
+    .box-title{
+        position: absolute;
+        width: 100%;
+        height: 10%;
+        top: 3%;
+        font-size: 400%;
+        text-align: center;
+        color: white;
+
+    }
+    .box-content{
+        position: absolute;
+        width: 80%;
+        height: 30%;
+        top: 10%;
+        right: 10%;
+        left: 10%;
+        font-size: 300%;
+        color: white;
+    }
+    .box-input{
+        background-color: white;
+        position: absolute;
+        width:55%;
+        height: 5%;
+        top: 50%;
+        left: 20%;
+    }
+    .input{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        font-size: 400%;
+        color: black;
+    }
+    .box-button{
+        position: absolute;
+        background-color: white;
+        width: 35%;
+        height: 7%;
+        top: 60%;
+        left: 30%;
+    }
+    .button{
+        background-color: white;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        font-size: 350%;
+        color: black;
+    }
+    .problem{
+        display: none;
+        position: absolute;
+        width: 80%;
+        height: 7%;
+        top: 70%;
+        right: 10%;
+        left: 10%;
+        font-size: 350%;
+        color: red;
+        text-align: center;
+        
+    }
+    .problem-yes{
+        position: absolute;
+        width: 80%;
+        height: 7%;
+        top: 70%;
+        right: 10%;
+        left: 10%;
+        font-size: 350%;
+        color: red;
+        text-align: center;
+        
+    }
